@@ -1,0 +1,12 @@
+__pycache__/
+*.pyc
+*.pyo
+*.egg-info/
+*.aux
+*.log
+*.out
+*.toc
+*.bbl
+*.blg
+.vscode/
+.idea/
